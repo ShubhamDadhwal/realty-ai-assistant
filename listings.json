@@ -1,0 +1,12 @@
+[
+{"bhk": 2, "location": "Sector 70 Mohali", "price_lakh": 48, "description": "near market"},
+{"bhk": 3, "location": "Sector 66 Mohali", "price_lakh": 85, "description": "park facing"},
+{"bhk": 2, "location": "Kharar", "price_lakh": 32, "description": "near highway"},
+{"bhk": 1, "location": "Zirakpur", "price_lakh": 25, "description": "near bus stand"},
+{"bhk": 3, "location": "Sector 79 Mohali", "price_lakh": 72, "description": "corner plot, gated society"},
+{"bhk": 2, "location": "Sector 82 Mohali", "price_lakh": 55, "description": "near IT City, ready to move"},
+{"bhk": 1, "location": "Phase 5 Mohali", "price_lakh": 30, "description": "near hospital, good for rent"},
+{"bhk": 4, "location": "Sector 68 Mohali", "price_lakh": 130, "description": "independent floor, parking"},
+{"bhk": 2, "location": "Zirakpur", "price_lakh": 41, "description": "near highway, lift available"},
+{"bhk": 3, "location": "Kharar", "price_lakh": 58, "description": "near school, new construction"}
+]
